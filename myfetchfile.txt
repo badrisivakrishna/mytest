@@ -1,0 +1,2 @@
+hi this is sample fetch file is created for testing.
+verify this and fetch to local repository
